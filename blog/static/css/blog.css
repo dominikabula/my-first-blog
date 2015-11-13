@@ -6,7 +6,7 @@ body {
     font-family: 'Lobster';
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #91637C;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
 
 .date {
     float: right;
-    color: #828282;
+    color: #B22222;
 }
 
 .save {
